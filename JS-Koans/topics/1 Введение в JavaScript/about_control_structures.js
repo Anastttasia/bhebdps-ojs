@@ -54,7 +54,7 @@ describe("About Control Structures (about_control_structures.js)", function(){
         break;
     }
 
-    // what is the value of result?
+    // what is the value of result??
     expect(2).toBe(result);
   });
 
