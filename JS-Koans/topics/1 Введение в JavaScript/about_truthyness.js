@@ -14,8 +14,8 @@ describe("About Truthyness (about_truthyness.js)", function() {
 
   it("truthyness of zero", function() {
     let zeroIsTruthy = 0 ? true : false;
-    // is 0 truthy?/
-    expect(false).toBe(zeroIsTruthy);
+    // is 0 truthy?
+    expect(FILL_ME_IN).toBe(zeroIsTruthy);
   });
 
   it("truthyness of null", function() {
